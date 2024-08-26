@@ -1,0 +1,6 @@
+crud
+
+Create: insert
+Retrieve(Read): select
+Update: update
+Delete: delete
